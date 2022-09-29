@@ -1,11 +1,11 @@
-# INIAPI 모듈연동 가이드 및 소통공간 입니다.
+# INIAPI 취소(환불) 모듈연동 가이드 및 소통공간 입니다.
 
 > 오류 혹은 이슈 관련 내용을 검색해보시고, 조회되는 내용이 있다면 참고 부탁드립니다.
   없다면 새로운 이슈글을 작성해 주시면 됩니다. (최대한 구체적으로 작성해주시면 도움이 됩니다.)
 
-> 연동 환경 및 방화벽 등의 상세 정보는 [ [개발가이드](https://manual.inicis.com/iniapi) > [방화벽정보](https://manual.inicis.com/iniapi/api-info.php#firewall) ] 참고 부탁드립니다.
+> 연동 환경 및 방화벽 등의 상세 정보는 [ [개발가이드](https://manual.inicis.com/pay/cancel.html) ] 참고 부탁드립니다.
 
-> INIAPI 의 경우 개발가이드에서 샘플 코드를 제공해 드리고 있습니다. [ [개발가이드](https://manual.inicis.com/iniapi/#sample) ] 참고 부탁드립니다.<br>
+> INIAPI 모듈 샘플은 [ [개발가이드](https://manual.inicis.com/pay/cancel.html) > 샘플 다운로드 ] 에서 다운 가능합니다.<br>
 
 > 개발연동 시 문의사항 및 오류가이드는 [ [Issues](https://github.com/kginicis-ts/INICIS-INIAPI/issues) ] 메뉴에서 확인하실 수 있습니다.
 
